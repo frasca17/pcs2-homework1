@@ -18,5 +18,3 @@ for i in range(0,N):
         L.sort();
     else:
         L.reverse();
-
-#comment
